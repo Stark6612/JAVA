@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JAVA/static/css/main.07c9ccdb.css",
+    "main.js": "/JAVA/static/js/main.8f960de4.js",
+    "index.html": "/JAVA/index.html",
+    "main.07c9ccdb.css.map": "/JAVA/static/css/main.07c9ccdb.css.map",
+    "main.8f960de4.js.map": "/JAVA/static/js/main.8f960de4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07c9ccdb.css",
+    "static/js/main.8f960de4.js"
+  ]
+}
